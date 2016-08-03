@@ -1,0 +1,2 @@
+# chugugi
+Raingauge related materials
